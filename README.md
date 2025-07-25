@@ -17,7 +17,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <img src="images/insert-function-dialog.png" width="351" height="295"> 
 
-*) Select the "CUSTOM.ADDFUNCTION" function
+*) Select the "ExcelCustomFunctions" category and choose the CUSTOM.ADDFUNCTION function
 
 *) Press OK
 
