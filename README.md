@@ -9,8 +9,6 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 <img src="/images/version.png" width="385" height="75"> 
 
 
-<B>Help Link Working</B>
-
 *) Build the project, upload the files to a https web server and sideload into Excel
 
 *) Select (File > New > Blank workbook)
@@ -25,7 +23,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <img src="images/arguments-dialog-one.png" width="345" height="216"> 
 
-*) Check that the custom function is working correctly
+<B>Check that the custom function is working correctly</B>
 
 *) Enter the values in cells B2, C2, B3, C4
 
