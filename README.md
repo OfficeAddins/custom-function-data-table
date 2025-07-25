@@ -25,7 +25,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 <B>Check that the custom function is working correctly</B>
 
-*) Enter the values in cells B2, C2, B3, C4
+*) Enter the values in cells B2, C2, B3, C3
 
 *) Enter the formula "=SUM(C2,C3)" into cell "B7"
 
