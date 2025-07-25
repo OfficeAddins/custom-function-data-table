@@ -46,17 +46,19 @@ For the column input select cell "C3"
 
 Press OK - The data table will be populated correctly
 
-Now lets repeat this using a custom function that adds up two numbers
+<img src="images/data-table.png" width="1298" height="672"> 
 
-Enter the values in cells H2, I2, H3, I4
+*) Now lets repeat this using a custom function that adds up two numbers
+
+*)Enter the values in cells H2, I2, H3, I4
 
 Enter the formula "=CUSTOM.ADDFUNCTION(I2,I3)" into cell "H7"
 Enter the numbers 5, 10, 15, 20 across in row 7
 Enter the numbers 3, 6, 9, 12 down in column B
 
-Highlight cells H7:L11
+*)Highlight cells H7:L11
 Select Data tab, What If Analysis, Data Table
 For the row input select cell "I2"
 For the column input select cell "I3"
 
-The data table is not populated and a calculation error is displayed
+<B>The data table is not populated and a calculation error is displayed</B>
