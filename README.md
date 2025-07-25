@@ -47,7 +47,7 @@ https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.ht
 
 *) Now lets repeat this using a custom function that adds up two numbers
 
-*) Enter the values in cells H2, I2, H3, I4
+*) Enter the values in cells H2, I2, H3, I3
 
 *) Enter the formula <B>"=CUSTOM.ADDFUNCTION(I2,I3)"</B> into cell "H7"
 
