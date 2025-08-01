@@ -1,9 +1,6 @@
 # custom-function-data-table
 Excel Office.JS example illustrating how to use a custom function in a data table
 
-Step by Step Tutorial:
-https://bettersolutions.com/javascript/custom-functions/creating-with-notepad.htm
-
 <img src="/images/screenshot.png" width="404" height="120"> 
 
 <img src="/images/version.png" width="385" height="75"> 
